@@ -11,7 +11,6 @@ $ wasm-pack build --dev
    Compiling wasm-debug-symbols v0.1.0 (D:\projects\wasm\wasm-debug-symbols)
     Finished dev [unoptimized + debuginfo] target(s) in 0.24s
 [INFO]: Installing wasm-bindgen...
-[INFO]: Optional fields missing from Cargo.toml: 'description', 'repository', and 'license'. These are not necessary, but recommended
 [INFO]: :-) Done in 0.44s
 [INFO]: :-) Your wasm pkg is ready to publish at .\pkg.
 
