@@ -1,0 +1,15 @@
+{
+  "name": "wasm-debug-symbols",
+  "collaborators": [
+    "art-in <artin@artin.space>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_debug_symbols_bg.wasm",
+    "wasm_debug_symbols.js",
+    "wasm_debug_symbols.d.ts"
+  ],
+  "module": "wasm_debug_symbols.js",
+  "types": "wasm_debug_symbols.d.ts",
+  "sideEffects": "false"
+}
